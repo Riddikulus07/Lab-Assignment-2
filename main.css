@@ -1,44 +1,58 @@
-*{
+* {
     background-color: #F5FFFA;
-    color: indigo;
+    color: #4B0082;
     font-size: 14;
-   }
-   body{   margin-top:3em;
-    margin-left:10%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    width: 80%;    
 }
-h1{
-    color: royalblue;
+
+body {
+
+    margin-top: 3em;
+    margin-left: 10%;
+    font-family: Calibri, Californian FB, Sans-serif;
+    width: 80%;
+}
+
+h1 {
+    color: rgb(65, 105, 225);
     font-size: 2.2em;
     text-transform: capitalize;
     letter-spacing: 3px;
     margin-bottom: 0px;
 }
-h2{
-    
+
+h2 {
+
     color: royalblue;
-    margin-top: 1.5em;;
+    margin-top: 1.5em;
+    ;
     margin-bottom: 0px;
 }
-h3{
+
+h3 {
     font-style: italic;
-    text-transform: capitalize;
+    text-transform: uppercase;
     margin-bottom: 0px;
 }
-p{
+
+p {
     margin-left: 4%;
-    margin-top: 0px;
-    margin-bottom: 0px;
+
 }
-ul{
+
+ul {
     margin-left: 2%;
+
+}
+
+p,
+ul {
     margin-top: 0px;
     margin-bottom: 0px;
 }
-hr{
-    background-color: royalblue;
-    color: navy;
+
+hr {
+    background-color: #4169E1;
+    color: #000080;
     margin-top: 0px;
     margin-bottom: 0px;
     height: 4px;
